@@ -50,6 +50,7 @@
     <Compile Include="Methods\HandleExceptionTryCatchAwait.cs" />
     <Compile Include="Methods\HandleTaskTryCatchResult.cs" />
     <Compile Include="Methods\HandleTaskTryCatchWait.cs" />
+    <Compile Include="Methods\TaskSchedulerUnobservedTaskException.cs" />
     <Compile Include="Methods\UnobservedTaskExceptionExecution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
